@@ -33,8 +33,7 @@ Here are some ideas to get you started:
 </p>
 <br>
 
-
-<img align="right" height="270px" alt="GIF" src="https://cdn.discordapp.com/attachments/702027317282734104/865119664539303976/wifi.gif" />
+<!-- <img align="right" height="270px" alt="GIF" src="https://cdn.discordapp.com/attachments/702027317282734104/865119664539303976/wifi.gif" /> -->
 
 ### I am a Computer Engineering Student at UVPCE [Ganpat University] 
 - 🔭 I’m currently practicing on solving Codechef Question and actively participating in Competiton  :grin:
