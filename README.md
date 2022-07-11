@@ -31,9 +31,10 @@ Here are some ideas to get you started:
  <a href="https://www.linkedin.com/in/maitri-thaker-21b041215/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:maitrithaker851@gmail.com?subject=Hello%20Maitri"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
+
 <br>
 
-<!-- <img align="right" height="270px" alt="GIF" src="https://cdn.discordapp.com/attachments/702027317282734104/865119664539303976/wifi.gif" /> -->
+ <img align="right" height="270px" alt="GIF" src="![mygif](https://user-images.githubusercontent.com/68602671/178182017-843e5eef-707e-4f78-bf76-dd91d949df84.gif)" /> 
 
 ### I am a Computer Engineering Student at UVPCE [Ganpat University] 
 - 🔭 I’m currently practicing on solving Codechef Question and actively participating in Competiton  :grin:
