@@ -17,10 +17,7 @@ Here are some ideas to get you started:
 <p>
   <h1 align="center"><b>Hey everyone, I'm Maitri 👋</b></h1>
 </p>
-<p>
-<img align="center" height="270px" alt="GIF" src="https://user-images.githubusercontent.com/68602671/178182646-68823723-6186-4cb3-a7d0-adcb67e66171.gif" />
 
-  </p>
 <p>
   <h4 align="center"><b>"Love to Learn and Contribute"</b></h4>
 </p>
@@ -37,6 +34,7 @@ Here are some ideas to get you started:
 </p>
 
 <br>
+<img align="right" height="270px" alt="GIF" src="https://user-images.githubusercontent.com/68602671/178182646-68823723-6186-4cb3-a7d0-adcb67e66171.gif" />
 
 
 
