@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <h1 align="center"><b>Hey everyone, I'm Maitri 👋</b></h1>
 </p>
 <p>
-  ![mygif](https://user-images.githubusercontent.com/68602671/178182272-abf9e59f-155e-4fbb-9ebf-012c5e8c8705.gif)
+<img align="center" height="270px" alt="GIF" src="https://user-images.githubusercontent.com/68602671/178182646-68823723-6186-4cb3-a7d0-adcb67e66171.gif" />
 
   </p>
 <p>
@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <br>
+
  <a href="https://www.linkedin.com/in/maitri-thaker-21b041215/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:maitrithaker851@gmail.com?subject=Hello%20Maitri"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
