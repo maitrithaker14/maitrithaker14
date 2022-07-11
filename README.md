@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **maitrithaker14/maitrithaker14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-  <h4 align="center"><b>"Love to Learn and Contribute"</b></h4>
+  <h4 align="center"><b>"Positive and Vibrant Attitude to Learn and Contribute"</b></h4>
 </p>
 
 <p align="center">
@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
+  
 <br>
 
  <a href="https://www.linkedin.com/in/maitri-thaker-21b041215/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
