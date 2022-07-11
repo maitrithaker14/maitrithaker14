@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 <p>
   <h1 align="center"><b>Hey everyone, I'm Maitri 👋</b></h1>
 </p>
-
+<p>
+  ![mygif](https://user-images.githubusercontent.com/68602671/178182017-843e5eef-707e-4f78-bf76-dd91d949df84.gif)" 
+  </p>
 <p>
   <h4 align="center"><b>"Love to Learn and Contribute"</b></h4>
 </p>
@@ -34,7 +36,7 @@ Here are some ideas to get you started:
 
 <br>
 
- <img align="right" height="270px" alt="GIF" src="![mygif](https://user-images.githubusercontent.com/68602671/178182017-843e5eef-707e-4f78-bf76-dd91d949df84.gif)" /> 
+
 
 ### I am a Computer Engineering Student at UVPCE [Ganpat University] 
 - 🔭 I’m currently practicing on solving Codechef Question and actively participating in Competiton  :grin:
