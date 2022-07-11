@@ -18,7 +18,8 @@ Here are some ideas to get you started:
   <h1 align="center"><b>Hey everyone, I'm Maitri 👋</b></h1>
 </p>
 <p>
-  ![mygif](https://user-images.githubusercontent.com/68602671/178182017-843e5eef-707e-4f78-bf76-dd91d949df84.gif)" 
+  ![mygif](https://user-images.githubusercontent.com/68602671/178182272-abf9e59f-155e-4fbb-9ebf-012c5e8c8705.gif)
+
   </p>
 <p>
   <h4 align="center"><b>"Love to Learn and Contribute"</b></h4>
